@@ -10,9 +10,7 @@ using std::cin;
 using std::endl;
 using std::ios_base;
 using std::string;
-typedef long long ll;
 
-#define MAX 1000001
 int main()
 {
     ios_base::sync_with_stdio(false);
