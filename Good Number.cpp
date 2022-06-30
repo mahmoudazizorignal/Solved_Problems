@@ -1,6 +1,6 @@
 /*
     The Code Made by Mahmoud M.Aziz
-    Date: 26/5/2022
+    Date: 27/5/2022
 */
 
 #include <bits/stdc++.h>
@@ -10,9 +10,7 @@ using std::cin;
 using std::endl;
 using std::ios_base;
 using std::string;
-typedef long long ll;
 
-#define MAX 1000001
 int main()
 {
     ios_base::sync_with_stdio(false);
